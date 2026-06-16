@@ -1,5 +1,6 @@
 {
-  "latestVersion": "1.1.0",
-  "releaseNotes": "- Complete UI overhaul with a modern, clean, and minimalist aesthetic.\n- Added seamless Light and Dark Mode themes.\n- Implemented a smart Foreground Service for background thermal monitoring (fixes screen-off freezing issues).\n- Added a new Universal In-App OTA Update checker.\n- Refactored app navigation with a smooth Bottom Navigation Bar.\n- Various under-the-hood optimizations for faster root command execution.",
-  "downloadUrl": "https://github.com/clsxkyyra404/XTherm/releases/latest"
+  "version": "v1.1.0",
+  "versionCode": 2,
+  "zipUrl": "https://github.com/clsxkyyra404/XTherm/releases/download/v1.1.0/XTherm-v1.1.0.zip",
+  "changelog": "https://raw.githubusercontent.com/clsxkyyra404/XTherm/main/changelog.md"
 }
